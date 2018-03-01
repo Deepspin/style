@@ -1,11 +1,11 @@
 ---
-title: Welcome to the vanilla Content Style Guide
+title: Welcome to the Vanilla Content Style Guide
 layout: article
 ---
 
 This style guide was created for  employees, but we hope it’s helpful for other content and communications teams too.
 
-## If you work at here.
+## If you work here.
 
 This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for us.
 
