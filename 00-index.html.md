@@ -1,13 +1,13 @@
 ---
-title: Welcome to the MailChimp Content Style Guide
+title: Welcome to the vanilla Content Style Guide
 layout: article
 ---
 
-This style guide was created for MailChimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created for  employees, but we hope it’s helpful for other content and communications teams too.
 
-## If you work at MailChimp
+## If you work at here.
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for MailChimp.
+This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for us.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 
